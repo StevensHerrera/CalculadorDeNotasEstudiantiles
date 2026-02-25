@@ -1,7 +1,7 @@
 CalculadorDeNotasEstudiantes
 Proyecto de consola que permite calcular el desempeño de los estudiantes
 
-## prerequisitos
+## prerrequisitos
 para correr este proyecto necesitas tener instalado python en tu pc
 
 # author
